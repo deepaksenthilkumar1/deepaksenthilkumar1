@@ -11,7 +11,7 @@ I am a passionate data scientist with a strong background in Data analysis. I am
 ## Skills
 
 - **Programming Languages:** Python,SQL.
-- **Data Analysis and Visualization:** Pandas, Matplotlib, Seaborn, Numpy
+- **Data Analysis and Visualization:** Pandas, Matplotlib, Seaborn, Numpy and Power BI
 - **Machine Learning:** scikit-learn
 - **Database Management:** MySQL
 - **Version Control:** GitHub.
